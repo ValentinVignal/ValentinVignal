@@ -20,6 +20,8 @@
 
 <p align="left"> <a href="https://twitter.com/vignalvalentin1" target="blank"><img src="https://img.shields.io/twitter/follow/vignalvalentin1?logo=twitter" alt="vignalvalentin1" /></a> </p>
 
+<a href="https://stackexchange.com/users/16694563"><img src="https://stackexchange.com/users/flair/16694563.png?theme=dark" width="208" height="58" alt="profile for Valentin Vignal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Valentin Vignal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vignalvalentin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vignalvalentin1" height="30" width="40" /></a>
