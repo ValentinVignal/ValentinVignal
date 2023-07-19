@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinvignal&label=Profile%20views&color=0e75b6&style=flat" alt="valentinvignal" /> </p>
 
+![](https://komarev.com/ghpvc/?username=valentinvignal&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/a700230c-ba51-4378-8fbc-fbcb542401ed.svg)](https://wakatime.com/@a700230c-ba51-4378-8fbc-fbcb542401ed)
 
 ### Hi there 👋
