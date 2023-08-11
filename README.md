@@ -19,6 +19,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart         10 hrs 45 mins  █████████████████░░░░░░░░   68.65 %
+TypeScript   1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+GraphQL      1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+YAML         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="left"> <a href="https://twitter.com/vignalvalentin1" target="blank"><img src="https://img.shields.io/twitter/follow/vignalvalentin1?logo=twitter" alt="vignalvalentin1" /></a> </p>
