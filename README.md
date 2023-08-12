@@ -19,40 +19,30 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
-> 📦 515.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1,399 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                705 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-🌆 Daytime                3871 commits        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-🌃 Evening                7701 commits        ███████████░░░░░░░░░░░░░░   44.74 % 
-🌙 Night                  4937 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌞 Morning                703 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+🌆 Daytime                3872 commits        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌃 Evening                7698 commits        ███████████░░░░░░░░░░░░░░   44.73 % 
+🌙 Night                  4937 commits        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2655 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Tuesday                  2648 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                2929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Monday                   2654 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Tuesday                  2648 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Wednesday                2927 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Thursday                 2320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Friday                   1984 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 2073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   2605 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   1983 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 2074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Sunday                   2604 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 ```
 
 
@@ -99,7 +89,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ValentinVignal/ValentinVignal/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2023 00:23:14 UTC
+ Last Updated on 12/08/2023 09:49:04 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <a href="https://twitter.com/vignalvalentin1" target="blank"><img src="https://img.shields.io/twitter/follow/vignalvalentin1?logo=twitter" alt="vignalvalentin1" /></a> </p>
