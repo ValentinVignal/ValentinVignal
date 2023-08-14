@@ -18,3 +18,4 @@ jobs:
           SHOW_SHORT_INFO: False
           COMMIT_BY_ME: True
           IGNORED_REPOS: "Web_Banque"
+          SHOW_UPDATED_DATE: False
