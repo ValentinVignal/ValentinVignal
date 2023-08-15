@@ -93,7 +93,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 <p align="left"> <a href="https://twitter.com/vignalvalentin1" target="blank"><img src="https://img.shields.io/twitter/follow/vignalvalentin1?logo=twitter" alt="vignalvalentin1" /></a> </p>
 
-<a href="https://stackexchange.com/users/16694563"><img src="https://stackexchange.com/users/flair/16694563.png?theme=dark" width="208" height="58" alt="profile for Valentin Vignal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Valentin Vignal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/12066144/valentin-vignal"><img src="https://stackexchange.com/users/flair/16694563.png?theme=dark" width="208" height="58" alt="profile for Valentin Vignal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Valentin Vignal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [My website](https://valentinvignal.github.io/portfolio/)
 
