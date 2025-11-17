@@ -19,8 +19,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C738%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
@@ -75,11 +73,11 @@ Mac                      16 hrs 48 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Dart                     20 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
