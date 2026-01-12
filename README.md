@@ -52,16 +52,17 @@ Sunday                   3738 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               54 mins             ██████████████████████░░░   88.43 % 
+Text                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+advent-of-code           1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
