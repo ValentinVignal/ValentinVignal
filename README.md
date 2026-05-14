@@ -23,54 +23,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.52%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6913 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-🌆 Daytime                11018 commits       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-🌃 Evening                15155 commits       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌙 Night                  13913 commits       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Tuesday                  8434 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Wednesday                8931 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Thursday                 8923 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Friday                   5716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Saturday                 5503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Sunday                   3840 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Dart                     4 hrs 5 mins        █████████████░░░░░░░░░░░░   52.51 % 
-TypeScript               2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.10 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-advent-of-code           2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
-flutter__packages        2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-package-dls-fe           1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-flutter                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-package-dls-react-fe     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-
-💻 Operating System: 
-Mac                      7 hrs 47 mins       █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
