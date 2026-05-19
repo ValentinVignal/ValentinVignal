@@ -19,9 +19,58 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C963%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.52%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6914 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌆 Daytime                11023 commits       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+🌃 Evening                15155 commits       ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌙 Night                  13914 commits       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Tuesday                  8433 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Wednesday                8932 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Thursday                 8924 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Friday                   5716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Saturday                 5509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Sunday                   3840 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Dart                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.78 % 
+TypeScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+YAML                     32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Svelte                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+package-dls-fe           58 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
+advent-of-code           26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+portfolio                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+package-dls-core-fe      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+flutter                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+
+💻 Operating System: 
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Dart** 
 
