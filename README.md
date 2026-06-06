@@ -19,57 +19,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C972%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C972%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.51%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6864 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌆 Daytime                10947 commits       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-🌃 Evening                15096 commits       ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌙 Night                  13859 commits       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Tuesday                  8381 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Wednesday                8882 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 8870 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Friday                   5692 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Saturday                 5490 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   3835 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Dart                     1 hr 46 mins        ███████████████░░░░░░░░░░   61.33 % 
-YAML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-package-dls-fe           2 hrs 26 mins       █████████████████████░░░░   84.72 % 
-advent-of-code           20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-flutter                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-package-dls-react-fe     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-
-💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Dart** 
 
