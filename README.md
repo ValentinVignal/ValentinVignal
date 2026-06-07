@@ -25,6 +25,53 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.51%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6864 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                10947 commits       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 Evening                15096 commits       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌙 Night                  13859 commits       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  8381 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Wednesday                8882 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 8870 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Friday                   5692 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Saturday                 5490 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Sunday                   3835 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Dart                     1 hr 29 mins        █████████████████░░░░░░░░   67.66 % 
+YAML                     31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+package-dls-fe           1 hr 7 mins         █████████████░░░░░░░░░░░░   51.11 % 
+flutter                  55 mins             ███████████░░░░░░░░░░░░░░   42.11 % 
+flutter__packages        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+bridge_view              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+package-dls-react-fe     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+💻 Operating System: 
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
