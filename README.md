@@ -30,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7762 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-🌆 Daytime                11658 commits       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌃 Evening                15832 commits       ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌙 Night                  15204 commits       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+🌞 Morning                7760 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌆 Daytime                11674 commits       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                15840 commits       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌙 Night                  15187 commits       ████████░░░░░░░░░░░░░░░░░   30.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5833 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Tuesday                  9089 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                9581 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 9773 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Friday                   6199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Saturday                 6020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Sunday                   3961 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Monday                   5845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Tuesday                  9092 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Wednesday                9582 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Thursday                 9775 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Friday                   6194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Saturday                 6014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   3959 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 
@@ -54,46 +54,46 @@ Sunday                   3961 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     2 hrs 31 mins       ███████████████░░░░░░░░░░   58.90 % 
-Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Dart                     2 hrs 53 mins       ███████████████░░░░░░░░░░   61.44 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               ███████████████████████░░   93.52 % 
-Claude Code              16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+VS Code                  4 hrs 25 mins       ████████████████████████░   94.10 % 
+Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🐱‍💻 Projects: 
-package-dls-fe           2 hrs 21 mins       ██████████████░░░░░░░░░░░   54.98 % 
-prompts                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-periodik                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-flutter                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Hider                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+package-dls-fe           2 hrs 39 mins       ██████████████░░░░░░░░░░░   56.53 % 
+periodik                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+flutter                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+prompts                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+package-dls-react-fe     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 💻 Operating System: 
-Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (26.78%)
+⏱ AI Coding Time: 1 hr 23 mins (29.63%)
 
-✍️ 0 lines written by AI, 458 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 400 lines written by hand (0.0% AI-written)
 
-🔤 285,716 Input Tokens, 7,443 Output Tokens
+🔤 345,207 Input Tokens, 16,661 Output Tokens
 
-💵 $0.97 Estimated AI Cost This Week
+💵 $1.29 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 17 AI Prompts
+🧠 12 AI Sessions, 19 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 176 characters per prompt
+📝 Concise Prompter — average 165 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
