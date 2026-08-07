@@ -25,76 +25,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.03%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                8078 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-🌆 Daytime                11946 commits       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌃 Evening                16096 commits       ████████░░░░░░░░░░░░░░░░░   31.10 % 
-🌙 Night                  15632 commits       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5949 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Tuesday                  9364 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Wednesday                9833 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Thursday                 10078 commits       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Friday                   6353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 6178 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Sunday                   3997 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-TypeScript               1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   41.79 % 
-Dart                     1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.20 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-advent-of-code           1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
-package-dls-fe           1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-package-dls-react-fe     53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-flutter__packages        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-prompts                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-
-💻 Operating System: 
-Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 47 mins (17.43%)
-
-✍️ 0 lines written by AI, 524 lines written by hand (0.0% AI-written)
-
-🔤 236,842 Input Tokens, 9,348 Output Tokens
-
-💵 $0.85 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 10 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 109 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.06%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
