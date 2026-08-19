@@ -19,32 +19,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C013%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C016%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.06%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8002 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌆 Daytime                12108 commits       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-🌃 Evening                16194 commits       ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌙 Night                  15230 commits       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌞 Morning                8086 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+🌆 Daytime                12174 commits       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌃 Evening                16259 commits       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌙 Night                  15349 commits       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Tuesday                  9377 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Wednesday                9838 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 10155 commits       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Friday                   6075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Saturday                 6055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Sunday                   4002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Monday                   6055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Tuesday                  9450 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Wednesday                9900 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Thursday                 10233 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Friday                   6118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Saturday                 6100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   4012 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 
@@ -54,45 +54,45 @@ Sunday                   4002 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Groovy                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Java Properties          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Kotlin                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Dart                     2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Kotlin                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-periodik                 2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
-package-components-react-58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-flutter__packages        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-package-dls-fe           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-package-dls-react-fe     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+bridge_view              2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+periodik                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+package-components-react-1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+package-dls-fe           44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+flutter__packages        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (26.91%)
+⏱ AI Coding Time: 1 hr 54 mins (27.22%)
 
-✍️ 0 lines written by AI, 121 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 242 lines written by hand (0.0% AI-written)
 
-🔤 312,309 Input Tokens, 10,229 Output Tokens
+🔤 373,858 Input Tokens, 10,529 Output Tokens
 
-💵 $1.09 Estimated AI Cost This Week
+💵 $1.28 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 21 AI Prompts
+🧠 8 AI Sessions, 27 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 524 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 342 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
