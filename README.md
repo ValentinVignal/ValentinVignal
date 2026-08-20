@@ -19,32 +19,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C016%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C018%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.03%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8086 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-🌆 Daytime                12174 commits       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-🌃 Evening                16259 commits       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌙 Night                  15349 commits       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌞 Morning                8000 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌆 Daytime                12124 commits       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌃 Evening                16207 commits       ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌙 Night                  15213 commits       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Tuesday                  9450 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Wednesday                9900 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 10233 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Friday                   6118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Saturday                 6100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Sunday                   4012 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Monday                   6043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Tuesday                  9384 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Wednesday                9840 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Thursday                 10157 commits       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Friday                   6070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Saturday                 6050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Sunday                   4000 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
@@ -54,56 +54,56 @@ Sunday                   4012 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.46 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Kotlin                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Dart                     2 hrs 53 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
+Kotlin                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bridge_view              2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-periodik                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-package-components-react-1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-package-dls-fe           44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-flutter__packages        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+bridge_view              3 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.13 % 
+package-components-react-1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+flutter__packages        50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+package-dls-react-fe     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+package-dls-fe           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (27.22%)
+⏱ AI Coding Time: 2 hrs 4 mins (30.87%)
 
-✍️ 0 lines written by AI, 242 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 256 lines written by hand (0.0% AI-written)
 
-🔤 373,858 Input Tokens, 10,529 Output Tokens
+🔤 615,116 Input Tokens, 9,909 Output Tokens
 
-💵 $1.28 Estimated AI Cost This Week
+💵 $1.99 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 27 AI Prompts
+🧠 15 AI Sessions, 37 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 342 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 344 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     20 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Dart                     20 repos            ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
