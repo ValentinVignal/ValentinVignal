@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C020%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C020%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -54,44 +54,44 @@ Sunday                   4006 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.92 % 
-TypeScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Kotlin                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Dart                     3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.98 % 
+TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Kotlin                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bridge_view              4 hrs 9 mins        ██████████████░░░░░░░░░░░   56.71 % 
-advent-of-code           44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-package-dls-fe           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-prompts                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-package-dls-react-fe     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+bridge_view              4 hrs 9 mins        █████████████░░░░░░░░░░░░   53.91 % 
+advent-of-code           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+flutter__packages        40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+package-dls-fe           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+prompts                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (31.84%)
+⏱ AI Coding Time: 2 hrs 36 mins (33.93%)
 
-✍️ 3 lines written by AI, 370 lines written by hand (0.8% AI-written)
+✍️ 3 lines written by AI, 372 lines written by hand (0.8% AI-written)
 
-🔤 671,462 Input Tokens, 7,937 Output Tokens
+🔤 692,573 Input Tokens, 8,248 Output Tokens
 
-💵 $2.13 Estimated AI Cost This Week
+💵 $2.20 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 38 AI Prompts
+🧠 18 AI Sessions, 39 AI Prompts
 
 Github-Copilot           3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.8% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
+📝 Concise Prompter — average 277 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 99.83% of changed lines were hand-edited
 ```
