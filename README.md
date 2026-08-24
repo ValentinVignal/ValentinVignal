@@ -54,32 +54,32 @@ Sunday                   4006 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.98 % 
-TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Kotlin                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Dart                     2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.88 % 
+TypeScript               1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Kotlin                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bridge_view              4 hrs 9 mins        █████████████░░░░░░░░░░░░   53.91 % 
-advent-of-code           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-flutter__packages        40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-package-dls-fe           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-prompts                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+bridge_view              4 hrs 6 mins        ██████████████░░░░░░░░░░░   55.24 % 
+advent-of-code           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+flutter__packages        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+package-dls-fe           26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+prompts                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-Mac                      7 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (33.93%)
+⏱ AI Coding Time: 2 hrs 36 mins (35.17%)
 
-✍️ 3 lines written by AI, 372 lines written by hand (0.8% AI-written)
+✍️ 3 lines written by AI, 370 lines written by hand (0.8% AI-written)
 
 🔤 692,573 Input Tokens, 8,248 Output Tokens
 
