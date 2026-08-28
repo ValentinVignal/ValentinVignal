@@ -19,32 +19,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C026%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C026%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8655 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-🌆 Daytime                12643 commits       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌃 Evening                16692 commits       ████████░░░░░░░░░░░░░░░░░   30.83 % 
-🌙 Night                  16160 commits       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌞 Morning                8596 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+🌆 Daytime                12520 commits       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌃 Evening                16609 commits       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌙 Night                  16161 commits       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6228 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Tuesday                  9919 commits        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Wednesday                10330 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Thursday                 10767 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   6408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Saturday                 6421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sunday                   4077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Monday                   6155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Tuesday                  9853 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Wednesday                10282 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Thursday                 10696 commits       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Friday                   6404 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Saturday                 6416 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Sunday                   4080 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
@@ -54,46 +54,46 @@ Sunday                   4077 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
-Dart                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TypeScript               2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Dart                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Rust                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-advent-of-code           2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-bridge_view              1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-flutter__packages        1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-portfolio                51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-package-dls-react-fe     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+advent-of-code           1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+flutter__packages        1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+bridge_view              1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+portfolio                51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+package-dls-react-fe     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 
 💻 Operating System: 
-Mac                      8 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (45.7%)
+⏱ AI Coding Time: 3 hrs 29 mins (46.42%)
 
-✍️ 3 lines written by AI, 392 lines written by hand (0.76% AI-written)
+✍️ 3 lines written by AI, 247 lines written by hand (1.2% AI-written)
 
-🔤 835,101 Input Tokens, 13,450 Output Tokens
+🔤 626,218 Input Tokens, 10,270 Output Tokens
 
-💵 $2.71 Estimated AI Cost This Week
+💵 $2.03 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 32 AI Prompts
+🧠 12 AI Sessions, 26 AI Prompts
 
 Github-Copilot           3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.76% of written lines came from AI
-📝 Concise Prompter — average 157 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.2% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.81% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
