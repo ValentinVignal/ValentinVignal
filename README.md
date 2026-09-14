@@ -54,29 +54,29 @@ Sunday                   4104 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     1 hr 11 mins        ███████████████░░░░░░░░░░   60.18 % 
-C++                      46 mins             ██████████░░░░░░░░░░░░░░░   38.63 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dart                     1 hr 22 mins        ████████████████░░░░░░░░░   63.39 % 
+C++                      46 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter                  1 hr 41 mins        █████████████████████░░░░   84.89 % 
-package-dls-fe           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-flutter__packages        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+flutter                  1 hr 52 mins        ██████████████████████░░░   86.11 % 
+package-dls-fe           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+flutter__packages        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (39.49%)
+⏱ AI Coding Time: 47 mins (36.3%)
 
-✍️ 0 lines written by AI, 99 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 104 lines written by hand (0.0% AI-written)
 
 🔤 1,372,308 Input Tokens, 5,768 Output Tokens
 
