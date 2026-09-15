@@ -19,32 +19,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C036%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C036%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.33%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.40%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8777 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-🌆 Daytime                12622 commits       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌃 Evening                16722 commits       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌙 Night                  16493 commits       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌞 Morning                8953 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+🌆 Daytime                12724 commits       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+🌃 Evening                16839 commits       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+🌙 Night                  16789 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  9998 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Wednesday                10428 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Thursday                 10855 commits       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Friday                   6528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Saturday                 6526 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Sunday                   4104 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Monday                   6200 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  10139 commits       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Wednesday                10561 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 11011 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Friday                   6632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Saturday                 6634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Sunday                   4128 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 
@@ -54,27 +54,27 @@ Sunday                   4104 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     1 hr 22 mins        ████████████████░░░░░░░░░   63.39 % 
-C++                      46 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Dart                     1 hr 25 mins        ████████████████░░░░░░░░░   64.09 % 
+C++                      46 mins             █████████░░░░░░░░░░░░░░░░   34.83 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter                  1 hr 52 mins        ██████████████████████░░░   86.11 % 
-package-dls-fe           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-flutter__packages        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+flutter                  1 hr 54 mins        ██████████████████████░░░   86.38 % 
+package-dls-fe           15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+flutter__packages        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (36.3%)
+⏱ AI Coding Time: 47 mins (35.61%)
 
 ✍️ 0 lines written by AI, 104 lines written by hand (0.0% AI-written)
 
