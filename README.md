@@ -25,26 +25,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9555 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-🌆 Daytime                13141 commits       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌃 Evening                17267 commits       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌙 Night                  17752 commits       ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌞 Morning                9516 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌆 Daytime                13102 commits       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+🌃 Evening                17233 commits       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+🌙 Night                  17701 commits       ████████░░░░░░░░░░░░░░░░░   30.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6330 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  10630 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Wednesday                11024 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 11561 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   6976 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 6990 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   4204 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Monday                   6313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Tuesday                  10596 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Wednesday                10994 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 11521 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Friday                   6957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Saturday                 6971 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Sunday                   4200 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 
@@ -54,27 +54,27 @@ Sunday                   4204 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     3 hrs 2 mins        █████████████████████████   98.56 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Dart                     2 hrs 42 mins       █████████████████████████   98.39 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        3 hrs               ████████████████████████░   97.76 % 
-flutter                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+flutter__packages        2 hrs 41 mins       ████████████████████████░   97.69 % 
+flutter                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 package-dls-react-fe     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 prompts                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (35.27%)
+⏱ AI Coding Time: 1 hr 5 mins (39.41%)
 
 ✍️ 0 lines written by AI, 136 lines written by hand (0.0% AI-written)
 
