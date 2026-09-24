@@ -25,26 +25,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.61%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.65%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9516 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-🌆 Daytime                13102 commits       ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌃 Evening                17233 commits       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌙 Night                  17701 commits       ████████░░░░░░░░░░░░░░░░░   30.76 % 
+🌞 Morning                9601 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+🌆 Daytime                13168 commits       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌃 Evening                17296 commits       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+🌙 Night                  17831 commits       ████████░░░░░░░░░░░░░░░░░   30.80 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Tuesday                  10596 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Wednesday                10994 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 11521 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Friday                   6957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 6971 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   4200 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Monday                   6336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Tuesday                  10666 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                11060 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 11600 commits       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Friday                   7004 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 7020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sunday                   4210 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 
@@ -54,18 +54,15 @@ Sunday                   4200 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     2 hrs 42 mins       █████████████████████████   98.39 % 
+Dart                     2 hrs 42 mins       █████████████████████████   98.40 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        2 hrs 41 mins       ████████████████████████░   97.69 % 
+flutter__packages        2 hrs 41 mins       ████████████████████████░   97.70 % 
 flutter                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-package-dls-react-fe     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-prompts                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Mac                      2 hrs 45 mins       █████████████████████████   100.00 % 
@@ -74,7 +71,7 @@ Mac                      2 hrs 45 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (39.41%)
+⏱ AI Coding Time: 1 hr 5 mins (39.4%)
 
 ✍️ 0 lines written by AI, 136 lines written by hand (0.0% AI-written)
 
@@ -82,14 +79,14 @@ Mac                      2 hrs 45 mins       ███████████�
 
 💵 $1.83 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 142 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
