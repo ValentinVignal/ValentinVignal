@@ -25,26 +25,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.58%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9430 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-🌆 Daytime                13052 commits       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌃 Evening                17179 commits       ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌙 Night                  17568 commits       ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌞 Morning                9474 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+🌆 Daytime                13077 commits       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌃 Evening                17208 commits       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌙 Night                  17643 commits       ████████░░░░░░░░░░░░░░░░░   30.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Tuesday                  10530 commits       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Wednesday                10932 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 11445 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   6909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Saturday                 6924 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Sunday                   4188 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Monday                   6307 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Tuesday                  10565 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Wednesday                10965 commits       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 11484 commits       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Friday                   6935 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 6952 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Sunday                   4194 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 ```
 
 
@@ -54,40 +54,23 @@ Sunday                   4188 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     3 hrs 26 mins       ████████████████████████░   96.53 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Dart                     1 hr 33 mins        ███████████████████████░░   92.64 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        3 hrs 31 mins       █████████████████████████   98.82 % 
-flutter                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+flutter__packages        1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (27.0%)
-
-✍️ 0 lines written by AI, 102 lines written by hand (0.0% AI-written)
-
-🔤 563,243 Input Tokens, 9,606 Output Tokens
-
-💵 $1.83 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 15 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
