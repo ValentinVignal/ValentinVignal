@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C041%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C042%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2012%20mins-blue?style=flat)
 
@@ -54,17 +54,18 @@ Sunday                   4206 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     1 hr 40 mins        ██████████████████████░░░   88.15 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Dart                     2 hrs               ████████████████████░░░░░   81.16 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        1 hr 53 mins        █████████████████████████   100.00 % 
+flutter__packages        2 hrs 22 mins       ████████████████████████░   96.14 % 
+flutter                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
