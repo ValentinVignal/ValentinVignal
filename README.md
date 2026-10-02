@@ -19,32 +19,32 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C042%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C042%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.63%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9599 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-🌆 Daytime                13204 commits       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-🌃 Evening                17320 commits       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌙 Night                  17808 commits       ████████░░░░░░░░░░░░░░░░░   30.74 % 
+🌞 Morning                9562 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+🌆 Daytime                13163 commits       ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌃 Evening                17286 commits       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  17754 commits       ████████░░░░░░░░░░░░░░░░░   30.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6362 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Tuesday                  10674 commits       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Wednesday                11070 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Thursday                 11605 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   7000 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Saturday                 7014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sunday                   4206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Monday                   6345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Tuesday                  10639 commits       █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Wednesday                11041 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Thursday                 11565 commits       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Friday                   6979 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 6994 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Sunday                   4202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   4206 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     2 hrs               ████████████████████░░░░░   81.16 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Dart                     2 hrs 9 mins        █████████████████████░░░░   82.17 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        2 hrs 22 mins       ████████████████████████░   96.14 % 
-flutter                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+flutter__packages        2 hrs 31 mins       ████████████████████████░   96.35 % 
+flutter                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
