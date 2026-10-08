@@ -25,26 +25,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9739 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-🌆 Daytime                13275 commits       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-🌃 Evening                17432 commits       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌙 Night                  18060 commits       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌞 Morning                9697 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌆 Daytime                13218 commits       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+🌃 Evening                17358 commits       ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌙 Night                  17999 commits       ████████░░░░░░░░░░░░░░░░░   30.89 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6381 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  10791 commits       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Wednesday                11186 commits       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Thursday                 11724 commits       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Friday                   7089 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Saturday                 7109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Sunday                   4226 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Monday                   6348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Tuesday                  10740 commits       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Wednesday                11136 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Thursday                 11681 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Friday                   7060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 7085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   4222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 
 
@@ -54,22 +54,22 @@ Sunday                   4226 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     1 hr 39 mins        ████████████████████░░░░░   80.04 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Dart                     1 hr 19 mins        ██████████████████████░░░   88.49 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        1 hr 46 mins        █████████████████████░░░░   85.64 % 
-flutter                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-depot_tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+flutter__packages        1 hr 17 mins        ██████████████████████░░░   86.42 % 
+flutter                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+depot_tools              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
