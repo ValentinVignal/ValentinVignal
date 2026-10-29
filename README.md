@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valentinvignal&theme=darkhub" alt="valentinvignal" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C045%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C045%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2012%20mins-blue?style=flat)
 
@@ -31,16 +31,16 @@
 
 ```text
 🌞 Morning                10285 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 Daytime                13667 commits       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌃 Evening                17815 commits       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌆 Daytime                13670 commits       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌃 Evening                17817 commits       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
 🌙 Night                  18932 commits       ████████░░░░░░░░░░░░░░░░░   31.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6507 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Tuesday                  11238 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                11601 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Monday                   6509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  11239 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Wednesday                11603 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 Thursday                 12242 commits       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 Friday                   7394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 Saturday                 7424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
@@ -54,16 +54,16 @@ Sunday                   4293 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     3 mins              █████████████████████████   100.00 % 
+Dart                     5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        3 mins              █████████████████████████   100.00 % 
+flutter__packages        5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,11 +75,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Dart                     20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
