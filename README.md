@@ -30,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10285 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 Daytime                13670 commits       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌃 Evening                17817 commits       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌙 Night                  18932 commits       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+🌞 Morning                10279 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌆 Daytime                13718 commits       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+🌃 Evening                17832 commits       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+🌙 Night                  18866 commits       ████████░░░░░░░░░░░░░░░░░   31.08 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Tuesday                  11239 commits       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Wednesday                11603 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Monday                   6542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Tuesday                  11242 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Wednesday                11606 commits       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 Thursday                 12242 commits       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Friday                   7394 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Saturday                 7424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Sunday                   4293 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Friday                   7376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Saturday                 7400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Sunday                   4287 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 
 
@@ -54,16 +54,16 @@ Sunday                   4293 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Dart                     5 mins              █████████████████████████   100.00 % 
+Dart                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flutter__packages        5 mins              █████████████████████████   100.00 % 
+flutter__packages        2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
