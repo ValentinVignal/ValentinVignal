@@ -91,6 +91,9 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+<figure><embed src="https://wakatime.com/share/@ValentinVignal/14c0624f-968b-4be5-9ca5-594ec1e141c1.svg"></embed></figure>
+
 <p align="left"> <a href="https://twitter.com/vignalvalentin1" target="blank"><img src="https://img.shields.io/twitter/follow/vignalvalentin1?logo=twitter" alt="vignalvalentin1" /></a> </p>
 
 <a href="https://stackoverflow.com/users/12066144/valentin-vignal"><img src="https://stackexchange.com/users/flair/16694563.png?theme=dark" width="208" height="58" alt="profile for Valentin Vignal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Valentin Vignal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
